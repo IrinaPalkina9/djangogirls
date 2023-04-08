@@ -1,0 +1,74 @@
+h1 a {
+    color: #065a73;
+    font-family: 'Georgia, serif';
+}
+
+body {
+    padding-left: 15px;
+    background:url('../img/1645004582_1-kartinkin-net-p-kartinki-dlya-fona-prezentatsii-1.jpg');
+}
+
+.page-header {
+    background-color: #065a73;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+    border-radius: 10px;
+}
+
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+    color: #ffffff;
+    font-size: 36pt;
+    text-decoration: none;
+}
+
+.content {
+    margin-left: 40px;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Lobster', cursive;
+}
+
+.date {
+    color: #828282;
+}
+
+.save {
+    float: right;
+}
+
+.post-form textarea, .post-form input {
+    width: 100%;
+}
+
+.top-menu, .top-menu:hover, .top-menu:visited {
+    color: #ffffff;
+    float: right;
+    font-size: 26pt;
+    margin-right: 20px;
+}
+
+.post {
+    width: 25%;
+    display:table-cell;
+    border-width:2px;
+    border-style:solid;
+    padding: 10px;
+    border-spacing:70px;
+    background-color:#ffffff;
+    border-radius: 10px;
+}
+
+.post h1 a, .post h1 a:visited {
+    color: #000000;
+}
+
+.post-row{
+    display:table-row;
+    width: 100%;
+}
+.table{
+    display: table;
+    border-collapse: separate;
+    border-spacing: 10px;
+}
